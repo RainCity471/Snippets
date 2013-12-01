@@ -1,4 +1,4 @@
-Mutopia
+Snippets
 =======
 
-Typeset LilyPond source code for the Mutopia Project (www.mutopiaproject.org)
+Small snippets of music typeset with LilyPond
